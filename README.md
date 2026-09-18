@@ -1,5 +1,5 @@
 # 随机晴宝生成器
-![test.jpg](./test.jpg)
+![test.png](./test.png)
 ## 项目简介
 基于GitHub上Lingluoluo大佬开源代码修改的的图片生成器，感谢大佬开源！！
 源工程指路：https://github.com/Lingluoluo/More_Suzume.git
